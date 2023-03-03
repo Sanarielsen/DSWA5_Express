@@ -1,0 +1,16 @@
+{
+  "name": "DSWA5",
+  "description": "Create a project for develop in the class",
+  "directory": "public/vendor"
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/Sanarielsen/DSWA5_Express",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
