@@ -7,5 +7,6 @@ Códigos utilizados na aula de DSWA
 + Aula 2: Configuração de rotas iniciais
 + Aula 3: Vove e te aviso
 + Aula 4: Vove e te aviso part 2
++ Aula 5: Em breve
 
 ExpressJS: express-load, REST API
