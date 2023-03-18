@@ -10,5 +10,6 @@ Códigos utilizados na aula de DSWA
 + Aula 5: Em breve
 + Aula 6: Em breve
 + Aula 7: Deixa pra lá
++ Aula 8: Quem me dera
 
 ExpressJS: express-load, REST API
