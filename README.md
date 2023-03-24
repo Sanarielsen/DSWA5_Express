@@ -12,6 +12,6 @@ Códigos utilizados na aula de DSWA
 + Aula 7: Deixa pra lá
 + Aula 8: Quem me dera
 + Aula 9: AI AI
-+ Aula 10: ....
++ Aula 10: ....asdasdoasdioasj
 
 ExpressJS: express-load, REST API
