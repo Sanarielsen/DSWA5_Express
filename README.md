@@ -19,5 +19,6 @@ Códigos utilizados na aula de DSWA
 + Aula 14: Esqueci de commitar ontem :(
 + Aula 15: Eu não vou desistir!
 + Aula 16: HAHAHAHAHA
++ AULA 17: ???????????????????
 
 ExpressJS: express-load, REST API
