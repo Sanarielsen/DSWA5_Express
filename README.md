@@ -22,6 +22,7 @@ Códigos utilizados na aula de DSWA
 + AULA 17: ???????????????????
 + Aula 18: '-'111111111111
 + Aula 19: HAHAHAHAHA NAO APROVARAM O PR
++ Aula 20: Ele passou duas atividades na aula passada...
 
 NÃO CONTOU O Q EU FIZ ONTEM...
 
